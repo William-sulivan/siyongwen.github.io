@@ -13,4 +13,3 @@ My research interest includes multimodal model, chart understanding, large langu
 
 
 [Email](siyong_wen@nudt.edu.cn) / [Github](https://github.com/William-sulivan/siyongwen.github.io)
-————————————————
