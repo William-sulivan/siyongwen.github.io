@@ -12,4 +12,4 @@ I'm a second year master's student from [National University of Defense Technolo
 My research interest includes multimodal model, chart understanding, large language models and machine learning. Welcome to contact me for communication in these fields.
 
 
-[Email](siyong_wen@nudt.edu.cn) / [Github](https://github.com/William-sulivan/siyongwen.github.io)
+[Email](siyong_wen@nudt.edu.cn) / [Github](https://william-sulivan.github.io/siyongwen.github.io/)
