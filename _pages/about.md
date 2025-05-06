@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master's student from [National University of Defense Technology](https://www.nudt.edu.cn/), advised by Professor Huaiming Wang. I am involved in research work in the PDL laboratory and my research has received support from the school project.
+I'm a second year master's student from [National University of Defense Technology](https://www.nudt.edu.cn/), advised by Professor Huaiming Wang. I am involved in research work in PDL(State key laboratory of parallel and distributed processing) and my research has received support from the school project.
 
 My research interest includes multimodal model, chart understanding, large language models and machine learning. Welcome to contact me for communication in these fields.
 
